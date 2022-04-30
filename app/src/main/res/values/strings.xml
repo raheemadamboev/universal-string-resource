@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Universal String Resource</string>
+    <string name="error_min_length">The name must be at least %1$d length!</string>
+    <string name="validate">Validate</string>
 </resources>
